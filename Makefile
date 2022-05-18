@@ -1,4 +1,4 @@
-# bin2dec Make file
+# bin2dec Makefile
 # by Muhammed Husaam
 # to make binary:
 # $ make
