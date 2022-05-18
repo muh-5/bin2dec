@@ -1,0 +1,19 @@
+bin2dec(1)		    General Commands Manual		    bin2dec(1)
+
+NAME
+     dec2bin - convert binary to decimal
+
+SYNOPSIS
+     bin2de binary_number
+
+EXAMPLES
+     $ dec2bin 1010
+       10
+     $ dec2bin 110100111000
+       3384
+
+AUTHOR
+      Written by Muhammed Hussam
+
+
+				 May 19, 2022
